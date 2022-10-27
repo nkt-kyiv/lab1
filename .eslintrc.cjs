@@ -1,4 +1,4 @@
-module.exports = {
+const config = {
   env: {
     node: true,
     es2021: true
@@ -16,3 +16,4 @@ module.exports = {
   rules: {
   }
 }
+export  default config;
